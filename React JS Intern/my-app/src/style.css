@@ -1,0 +1,21 @@
+.square {
+    width: 200px;
+    height: 200px;
+    background-color: #cfcec6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .circle {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    font-size: 24px;
+    cursor: pointer;
+    justify-content: center;
+    background-color: hsl(59, 90%, 45%);
+  }
+  
